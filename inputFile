@@ -1,0 +1,4 @@
+Column Name|Data Type|Range|List<String> options
+Name|STRING|none|"prakash","sradha","pratik"
+Address|STRING|none|"CTC","jspur","bbsr"
+zipcode|INT|12345-23456|none
